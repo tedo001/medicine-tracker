@@ -1,0 +1,19 @@
+medicine-tracker/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── medicinetracker/
+│   │   │           ├── Main.java
+│   │   │           ├── model/
+│   │   │           │   ├── Medicine.java
+│   │   │           │   └── DatabaseConnection.java
+│   │   │           ├── dao/
+│   │   │           │   └── MedicineDAO.java
+│   │   │           └── service/
+│   │   │               └── MedicineService.java
+│   │   └── resources/
+│   └── test/
+│       └── java/
+├── lib/
+└── README.md
